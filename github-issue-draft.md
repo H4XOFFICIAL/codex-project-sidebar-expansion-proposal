@@ -2,6 +2,8 @@
 
 **Title:** Codex Desktop: restore inline project expansion in the sidebar
 
+**Published:** [openai/codex#33917](https://github.com/openai/codex/issues/33917)
+
 ## Summary
 
 Restore an optional inline project list beneath the **Projects** row in Codex Desktop. Keep the current full Projects directory, but add a disclosure chevron so users can switch projects without leaving the task they are viewing.

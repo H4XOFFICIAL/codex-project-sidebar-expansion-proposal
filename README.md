@@ -39,4 +39,4 @@ The supplied reference screenshots were used only to understand the interaction.
 
 ## Status
 
-Interaction, accessibility, and responsive-layout review passed. The proposal repository and prototype are approved for public submission to `openai/codex`.
+Interaction, accessibility, and responsive-layout review passed. The request was published as [openai/codex#33917](https://github.com/openai/codex/issues/33917) on July 18, 2026.
